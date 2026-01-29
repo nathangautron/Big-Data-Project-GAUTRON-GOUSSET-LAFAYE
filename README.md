@@ -1,7 +1,7 @@
-# Projet DataViz : Impact des Risques Climatiques sur l'Immobilier (Hauts-de-Seine)
+# Projet Big Data : Impact des Risques Climatiques sur l'Immobilier (Hauts-de-Seine)
 
 **Auteurs :** GAUTRON, GOUSSET, LAFAYE  
-**Master 2 ISUP - Datavisualisation**
+**Master 2 ISUP - Big Data**
 
 Ce projet analyse la corrélation entre les prix de l'immobilier et les risques naturels (Retrait-Gonflement des Argiles et Remontée de Nappes Phréatiques) dans le département du 92.
 
@@ -13,7 +13,7 @@ https://www.georisques.gouv.fr/donnees/bases-de-donnees/inondations-par-remontee
 
 ## Rapport de projet - HTML
 
-Dézipper markdown_dataviz_html.zip
+Dézipper markdown_html.zip
 
 ## Accès Rapide (Démo en ligne) - Le Dashboard (Appli ShinnyApps)
 
@@ -22,7 +22,7 @@ L'application est déployée et accessible directement via ce lien : (Refresh ou
 
 ## La Présentation - Slides
 
-presentation_data_viz.pdf
+Projet_Big_Data_GAUTRON_GOUSSET_LAFAYE.pdf
 
 ---
 
@@ -62,4 +62,4 @@ Si vous souhaitez exécuter le projet localement dans RStudio :
 *   `data/` : Contient les données géographiques (GeoJSON) et immobilières allégées.
 
 ---
-*Projet réalisé dans le cadre du cours de Datavisualisation - ISUP M2 - Janvier 2026.*
+*Projet réalisé dans le cadre du cours de Big Data - ISUP M2 - Janvier 2026.*
